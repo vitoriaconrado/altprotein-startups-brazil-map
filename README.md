@@ -69,7 +69,7 @@ Possible next steps include:
 - Including filters by region, state, or product category
 - Building a web interface for browsing and searching
 - Adding attribution and contribution workflows for public data updates
-  (making it prettier!) 
+- (making it prettier!) 
 
 ## License
 
