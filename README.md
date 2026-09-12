@@ -57,18 +57,11 @@ startups_map.html
 
 The current dataset includes a curated selection of Brazilian startup locations and category labels. Marker colors help distinguish each segment of the alternative protein ecosystem at a glance.
 
-## Example use cases
-
-- Explore where alt-protein activity is concentrated in Brazil
-- Compare startup clusters by city or region
-- Share a simple ecosystem overview with students, partners, or investors
-- Build the foundation for a larger public directory or interactive dashboard
-
 ## Current focus
 
 This is a lightweight foundation for a public-facing ecosystem map. It is designed to expand over time with more companies, stronger data coverage, and richer public context.
 
-## Future opportunities
+## Future goals
 
 Possible next steps include:
 
@@ -76,6 +69,7 @@ Possible next steps include:
 - Including filters by region, state, or product category
 - Building a web interface for browsing and searching
 - Adding attribution and contribution workflows for public data updates
+  (making it prettier!) 
 
 ## License
 
